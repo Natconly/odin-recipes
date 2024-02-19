@@ -1,7 +1,7 @@
-.title-page {text-align: center; background-color: black; color: white;
+.title-page {text-align: center; background-color: black; color: white; font-family: cursive;
 }
 
 h1 {color: yellow;}
 
-.recipes {font-style: "New Roman"; color: blue; font-style: italic;
+.recipes {font-family: serif; color: blue; font-style: italic;
 }
